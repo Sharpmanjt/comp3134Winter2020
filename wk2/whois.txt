@@ -1,0 +1,180 @@
+Domain Information
+Name: google
+Nameservers:
+ns-tld1.charlestonroadregistry.com
+ns-tld5.charlestonroadregistry.com
+ns-tld2.charlestonroadregistry.com
+ns-tld3.charlestonroadregistry.com
+ns-tld4.charlestonroadregistry.com
+Dates
+Updated: 2020-01-08 00:00:00 UTC
+Created: 2014-09-04 00:00:00 UTC
+Contact Information
+Registrant:
+Name: Charleston Road Registry Inc.
+Organization: Charleston Road Registry Inc.
+Mailing Address: 1600 Amphitheatre Parkway | Mountain View, CA 94043 United States
+Technical:
+Name: Richard Roberto
+Organization: Google Inc.
+Email: crr-tech@google.com
+Tel: 1 212 565 2633
+Fax: 1 650 492 5631
+Mailing Address: 76 9th Avenue, 4th Floor | New York, NY 10011 United States
+Administrative:
+Name: Domains Policy and Compliance
+Organization: Google Inc.
+Email: iana-contact@google.com
+Tel: 1 202 642 2325
+Fax: 1 650 492 5631
+Mailing Address: 601 N. 34th Street | Seattle, WA 98103 United States
+Registrar Information
+URL: https://www.registry.google
+DNSSEC Information
+Delegation Signed: SignedDelegation
+
+--------------
+
+Domain Information
+Name: microsoft
+Nameservers:
+ac3.nstld.com
+ac2.nstld.com
+ac1.nstld.com
+ac4.nstld.com
+Dates
+Updated: 2019-08-16 00:00:00 UTC
+Created: 2015-04-30 00:00:00 UTC
+Contact Information
+Registrant:
+Name: Microsoft Corporation
+Organization: Microsoft Corporation
+Mailing Address: One Microsoft Way, Redmond, WA 98052 United States
+Technical:
+Name: Registry Customer Service
+Organization: Verisign, Inc
+Email: info@verisign-grs.com
+Tel: +1-703-925-6999
+Fax: +1-703-948-3978
+Mailing Address: 12061 Bluemont Way | Reston Virginia 20190 United States
+Administrative:
+Name: Program Manager
+Organization: Microsoft Corporation
+Email: tlddom@microsoft.com
+Tel: 425-706-3546
+Fax: 425-457-2511
+Mailing Address: One Microsoft Way, Redmond, WA 98052 United States
+Registrar Information
+URL: http://www.microsoft.com
+DNSSEC Information
+Delegation Signed: SignedDelegation
+
+-------------
+
+Domain Information
+Name: yahoo
+Nameservers:
+ns6.dns.nic.yahoo
+ns2.dns.nic.yahoo
+ns4.dns.nic.yahoo
+ns3.dns.nic.yahoo
+ns5.dns.nic.yahoo
+ns1.dns.nic.yahoo
+Dates
+Updated: 2019-06-28 00:00:00 UTC
+Created: 2016-01-29 00:00:00 UTC
+Contact Information
+Registrant:
+Name: Yahoo! Domain Services Inc.
+Organization: Yahoo! Domain Services Inc.
+Mailing Address: 701 First Avenue Sunnyvale, California - 94089 US United States
+Technical:
+Name: Director
+Organization: Neustar, Inc.
+Email: technical1@registry.neustar
+Tel: +1 844-677-2878
+Fax: +1 571-434-5401
+Mailing Address: 21575 Ridgetop Circle | Sterling, VA 20166 United States
+Administrative:
+Name: Domain Admin
+Organization: Yahoo! Domain Services Inc.
+Email: ngtld-oath@cscglobal.com
+Tel: +1 212 206 4400
+Mailing Address: 701 First Avenue Sunnyvale, California - 94089 US United States
+Registrar Information
+URL: http://nic.yahoo
+DNSSEC Information
+Delegation Signed: SignedDelegation
+
+------
+
+Domain Information
+Name: youtube
+Nameservers:
+ns-tld1.charlestonroadregistry.com
+ns-tld5.charlestonroadregistry.com
+ns-tld2.charlestonroadregistry.com
+ns-tld3.charlestonroadregistry.com
+ns-tld4.charlestonroadregistry.com
+Dates
+Updated: 2020-01-08 00:00:00 UTC
+Created: 2014-08-23 00:00:00 UTC
+Contact Information
+Registrant:
+Name: Charleston Road Registry Inc.
+Organization: Charleston Road Registry Inc.
+Mailing Address: 1600 Amphitheatre Parkway United States
+Technical:
+Name: Richard Roberto
+Organization: Google Inc
+Email: crr-tech@google.com
+Tel: 1 212 565 2633
+Fax: 1 650 492 5631
+Mailing Address: 76 9th Avenue, 4th Floor | New York, NY 11001 United States
+Administrative:
+Name: Domains Policy and Compliance
+Organization: Google Inc
+Email: iana-contact@google.com
+Tel: 1 202 642 2325
+Fax: 1 650 492 5631
+Mailing Address: 601 N. 34th Street | Seattle, WA 98103 United States
+Registrar Information
+URL: https://www.registry.google
+DNSSEC Information
+Delegation Signed: SignedDelegation
+
+----------
+
+Domain Information
+Name: apple
+Nameservers:
+b0.nic.apple
+c0.nic.apple
+a0.nic.apple
+a2.nic.apple
+Dates
+Updated: 2019-08-21 00:00:00 UTC
+Created: 2015-07-02 00:00:00 UTC
+Contact Information
+Registrant:
+Name: Apple Inc.
+Organization: Apple Inc.
+Mailing Address: 1 Infinite Loop | Cupertino, CA 95014 United States
+Technical:
+Name: Senior Director, DNS Infrastructure Group
+Organization: Afilias
+Email: tld-tech-poc@afilias.info
+Tel: +1 215 706 5700
+Fax: +1 215 706 5701
+Mailing Address: Building 3, Suite 105 | 300 Welsh Road | Horsham, PA 19044 United States
+Administrative:
+Name: Counsel-Trademark, Copyright and Domains
+Organization: Apple, Inc.
+Email: ngtld-apple@cscglobal.com
+Tel: +1 408 996 1010
+Fax: +1 408 253 0186
+Mailing Address: 1 Infinite Loop | Cupertino, CA 95014 United States
+Registrar Information
+URL: http://www.apple.com/
+DNSSEC Information
+Delegation Signed: SignedDelegation

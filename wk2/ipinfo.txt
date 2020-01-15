@@ -1,0 +1,36 @@
+twitter.com
+IP Address: 104.244.42.65
+
+Geolocation: US (United States), CA, California, 94103 San Francisco - Google Maps
+
+-----
+
+channelfireball.com
+
+IP Address: 104.198.7.24
+
+Geolocation: US (United States), CA, California, 94043 Mountain View - Google Maps
+
+-----------
+
+starcitygames.com
+
+IP Address: 35.190.15.171
+
+Geolocation: US (United States), CA, California, 94043 Mountain View - Google Maps
+
+-----------
+
+facetofacegames.com
+
+IP Address: 13.52.91.176
+
+Geolocation: US (United States), CA, California, 95141 San Jose - Google Maps
+
+---------
+
+401games.ca
+
+IP Address: 69.156.240.29
+
+Geolocation: CA (Canada), ON, Ontario, L4V Mississauga - Google Maps
