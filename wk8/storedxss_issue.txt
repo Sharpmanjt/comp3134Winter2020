@@ -1,0 +1,3 @@
+without sanitizing the input at all, we are just going to output whatever is inside the file to the browser.
+If there is any code in the file, it's just going to immediately be run since the browser will attempt to interpret the 
+code. 

@@ -1,0 +1,30 @@
+<h1>Page Title</h1>
+
+<form id="form1" action="reflectedxss.html">
+    <input type="text" name="textvar">
+    <input type="submit">
+</form>
+
+<script>
+    text = ""
+    function evaluate(str){
+        try{
+            return eval(str)
+        }
+        catch(e){
+            return str
+        }
+    }
+    let f = document.getElementById("form1")
+    f.onsubmit=function(e){
+        e.preventDefault();
+
+        var evStr = evaluate(e.target.elements.textvar.value)
+
+        document.getElementById("text2").innerHTML = evStr
+    }
+</script>
+
+<div>
+    <p id="text2"></p>
+</div>
