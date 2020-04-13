@@ -1,7 +1,7 @@
 <?php
 
 $servername = "127.0.0.1";
-$username = "admin2";
+$username = "admin";
 $password = "";
 $db = "db";
 
@@ -39,10 +39,11 @@ foreach ($arr as $line) {
 }
 echo "</tbody> </table>";
 
-function getDB($q){
-    $arr = 1;
+function getDB($q, $conn){
 
-    return $arr;
+    $query = "Select * FROM 'users' where  firstname='" . $q . "' and 'active'==1";
+    $result = $conn->query($query);
+    return $result;
 }
 
 ?>

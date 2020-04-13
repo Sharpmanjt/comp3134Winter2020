@@ -1,0 +1,2 @@
+When submitting the query for 'Ben', it behaves as expected and
+gets the row with just Ben's name
