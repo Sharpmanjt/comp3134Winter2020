@@ -27,6 +27,8 @@ echo "<table style='border-collapse: collapse' border='1px solid black'>
 <td>Active</td>
 </th></thead><tbody>";
 
+$arr = getDB($_GET["command"], $conn);
+
 foreach ($arr as $line) {
     echo "<tr>
 <td>$line[0]</td>
